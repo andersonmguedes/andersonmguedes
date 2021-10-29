@@ -9,7 +9,7 @@ Desenvolvedor FullStack em formação na Blue.
 
 Graduado em Gestão de Tecnologia da Informação, com especialização em Redes de Telecomunicação
 
-MBA em gestão Estratégica, Inovação e Conhecimento.
+MBA em Gestão Estratégica, Inovação e Conhecimento.
 
 
 https://www.linkedin.com/in/andersonmguedes/
