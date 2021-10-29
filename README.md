@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Desenvolverdor FullStack em formação na Blue.
+Desenvolvedor FullStack em formação na Blue.
 
 
  |Python | HTML | CSS | JS | NodeJS |
