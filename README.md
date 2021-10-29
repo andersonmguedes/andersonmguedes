@@ -1,5 +1,13 @@
 ### Olá 👋
 
+Desenvolverdor FullStack em formação na Blue.
+
+
+ |Python | HTML | CSS | JS | NodeJS |
+
+Graduado em Gestão de Tecnologia da Informação, com especialização em Redes de Telecomunicação e 
+MBA em gestão Estratégica, Inovação e Conhecimento.
+
 <!--
 **andersonmguedes/andersonmguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
