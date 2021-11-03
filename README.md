@@ -15,6 +15,11 @@ MBA em Gestão Estratégica, Inovação e Conhecimento.
 https://www.linkedin.com/in/andersonmguedes/
 
 
+What I'm probably doing right now
+
+
+![gato](https://user-images.githubusercontent.com/83734443/140232408-052f868c-1017-450b-aa46-d4e11756f1a9.gif)
+
 <!--
 **andersonmguedes/andersonmguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
