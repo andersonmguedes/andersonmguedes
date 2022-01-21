@@ -2,7 +2,7 @@
 
 Sou Anderson Guedes,
 
-Desenvolvedor FullStack em formação na Blue.
+Desenvolvedor FullStack em formação.
 
 
  |Python | HTML | CSS | JS | NodeJS |
